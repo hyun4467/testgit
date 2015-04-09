@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	슬미니 바보멍퉁이
+	슬미니 hgjhgjhhb
 </body>
 </html>
